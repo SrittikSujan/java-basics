@@ -10,6 +10,10 @@ import java.util.*;
 
 public class Q3 {
     public static void main(String[] args) {
+        System.out.println("\nName: Srittik Sujan Mohapatra");
+        System.out.println("Roll No: 2430259");
+
+        System.out.println("\n-----------------------------\n");
         
         double r = 5;
         double x, y;

@@ -7,6 +7,11 @@ import java.util.*;
 
 public class Q4 {
     public static void main(String[] args) {
+        System.out.println("\nName: Srittik Sujan Mohapatra");
+        System.out.println("Roll No: 2430259");
+
+        System.out.println("\n-----------------------------\n");
+
         System.out.println("\nEnter an integer number: ");
         Scanner data = new Scanner(System.in);
 

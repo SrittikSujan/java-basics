@@ -5,6 +5,10 @@ import java.lang.Math;
 
 public class Q1 {
     public static void main(String[] args) {
+        System.out.println("\nName: Srittik Sujan Mohapatra");
+        System.out.println("Roll No: 2430259");
+
+        System.out.println("\n-----------------------------\n");
 
         System.out.println("\nOur f(x) = e^-x\n");
      
