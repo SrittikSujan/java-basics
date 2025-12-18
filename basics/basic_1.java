@@ -1,4 +1,4 @@
-public class Test1 {
+public class basic_1 {
     public static void main(String[] args) {
 
         // INTEGRAL NUMBERS METADATA
