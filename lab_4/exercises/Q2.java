@@ -2,9 +2,12 @@
 // is an imaginary part of the number. Design a Java class called Complex
 // representing the complex number with member data x and y of the number.
 // Include constructors and member methods to perform the following:
-// 1. to accept and display a complex number
-// 2. to find the sum of two complex numbers
-// 3. to find the product of two complex numbers
+
+//     1. to accept and display a complex number
+
+//     2. to find the sum of two complex numbers
+
+//     3. to find the product of two complex numbers
 
 import java.util.*;
 

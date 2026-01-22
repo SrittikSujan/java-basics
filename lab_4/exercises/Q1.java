@@ -1,9 +1,12 @@
 // 1. Create a class by name Triangle with the three sides a, b, and c as
 // its member data. Include constructors and member methods to perform the
 // following:
-// 1. to accept the sides of a triangle.
-// 2. to display the sides of a triangle.
-// 3. to find whether the triangle is an equilateral or an isosceles or right angled triangle.
+
+//     1. to accept the sides of a triangle.
+
+//     2. to display the sides of a triangle.
+
+//     3. to find whether the triangle is an equilateral or an isosceles or right angled triangle.
 
 import java.util.Scanner;
 
